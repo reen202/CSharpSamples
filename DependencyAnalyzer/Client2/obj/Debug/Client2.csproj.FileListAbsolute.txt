@@ -1,0 +1,1 @@
+C:\Work drive\visual studio projects\DependencyAnalyzer\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache

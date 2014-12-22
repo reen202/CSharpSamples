@@ -1,0 +1,36 @@
+C:\Work drive\visual studio projects\DependencyAnalyzer\PackageAnalyzer\bin\Debug\PackageAnalyzer.exe.config
+C:\Work drive\visual studio projects\DependencyAnalyzer\PackageAnalyzer\bin\Debug\PackageAnalyzer.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\PackageAnalyzer\bin\Debug\PackageAnalyzer.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\PackageAnalyzer\bin\Debug\ConsoleApplication1.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\PackageAnalyzer\bin\Debug\Parser.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\PackageAnalyzer\bin\Debug\Storage.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\PackageAnalyzer\bin\Debug\ConsoleApplication1.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\PackageAnalyzer\bin\Debug\Parser.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\PackageAnalyzer\bin\Debug\Storage.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\PackageAnalyzer\obj\Debug\PackageAnalyzer.csprojResolveAssemblyReference.cache
+C:\Work drive\visual studio projects\DependencyAnalyzer\PackageAnalyzer\obj\Debug\PackageAnalyzer.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\PackageAnalyzer\obj\Debug\PackageAnalyzer.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\PackageAnalyzer.exe.config
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\PackageAnalyzer.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\PackageAnalyzer.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\ConsoleApplication1.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\Parser.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\Storage.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\ConsoleApplication1.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\Parser.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\Storage.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\obj\Debug\PackageAnalyzer.csprojResolveAssemblyReference.cache
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\obj\Debug\PackageAnalyzer.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\obj\Debug\PackageAnalyzer.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\PackageAnalyzer.exe.config
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\PackageAnalyzer.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\PackageAnalyzer.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\ConsoleApplication1.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\Parser.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\Storage.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\ConsoleApplication1.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\Parser.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\bin\Debug\Storage.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\obj\Debug\PackageAnalyzer.csprojResolveAssemblyReference.cache
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\obj\Debug\PackageAnalyzer.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\PackageAnalyzer\obj\Debug\PackageAnalyzer.pdb

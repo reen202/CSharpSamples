@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<Relationships>
+  <File Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\AnalyzerFactory.cs">
+    <Class Name="RelationshipFactory" RelatedTo="RelationshipFactory" RelType="Inheritance" />
+    <Class Name="RelationshipFactory" RelatedTo="RelationshipFactory" RelType="Using" />
+    <Class Name="AnalyzerFactoryProducer" RelatedTo="AnalyzerFactoryProducer" RelType="Using" />
+    <Class Name="AbstractRelationshipWorker" RelatedTo="AbstractRelationshipWorker" RelType="Inheritance" />
+    <Class Name="AbstractRelationshipWorker" RelatedTo="AbstractRelationshipWorker" RelType="Using" />
+    <Class Name="InheritanceRelationshipWorker" RelatedTo="InheritanceRelationshipWorker" RelType="Inheritance" />
+    <Class Name="InheritanceRelationshipWorker" RelatedTo="InheritanceRelationshipWorker" RelType="Using" />
+    <Class Name="AggregationRelationshipWorker" RelatedTo="AggregationRelationshipWorker" RelType="Inheritance" />
+    <Class Name="AggregationRelationshipWorker" RelatedTo="AggregationRelationshipWorker" RelType="Using" />
+    <Class Name="CompositionRelationshipWorker" RelatedTo="CompositionRelationshipWorker" RelType="Inheritance" />
+    <Class Name="CompositionRelationshipWorker" RelatedTo="CompositionRelationshipWorker" RelType="Using" />
+    <Class Name="UsingRelationshipWorker" RelatedTo="UsingRelationshipWorker" RelType="Inheritance" />
+    <Class Name="UsingRelationshipWorker" RelatedTo="UsingRelationshipWorker" RelType="Using" />
+    <Class Name="DelegateUsingRelationshipWorker" RelatedTo="DelegateUsingRelationshipWorker" RelType="Inheritance" />
+    <Class Name="DelegateUsingRelationshipWorker" RelatedTo="DelegateUsingRelationshipWorker" RelType="Using" />
+  </File>
+  <File Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\CLInterpreter.cs">
+    <Class Name="CommandLineArgs" RelatedTo="CommandLineArgs" RelType="Using" />
+    <Class Name="CommandLineArgs" RelatedTo="CommandLineArgs" RelType="Using" />
+    <Class Name="CommandLineArgs" RelatedTo="CommandLineArgs" RelType="Using" />
+    <Class Name="CommandLineArgs" RelatedTo="CommandLineArgs" RelType="Using" />
+  </File>
+  <File Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\CodeAnalyzerFacade.cs">
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Composition" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Composition" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Aggregation" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Aggregation" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Aggregation" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Aggregation" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Aggregation" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Aggregation" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Aggregation" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Using" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Aggregation" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Using" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Using" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Aggregation" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Using" />
+    <Class Name="CodeAnalyzer" RelatedTo="CodeAnalyzer" RelType="Using" />
+  </File>
+  <File Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\Display.cs">
+    <Class Name="ConsolePrinter" RelatedTo="ConsolePrinter" RelType="Composition" />
+    <Class Name="ConsolePrinter" RelatedTo="ConsolePrinter" RelType="Using" />
+    <Class Name="ConsolePrinter" RelatedTo="ConsolePrinter" RelType="Using" />
+    <Class Name="ConsolePrinter" RelatedTo="ConsolePrinter" RelType="Using" />
+    <Class Name="ConsolePrinter" RelatedTo="ConsolePrinter" RelType="Using" />
+    <Class Name="ConsolePrinter" RelatedTo="ConsolePrinter" RelType="Using" />
+    <Class Name="XMLPrinter" RelatedTo="XMLPrinter" RelType="Composition" />
+    <Class Name="XMLPrinter" RelatedTo="XMLPrinter" RelType="Using" />
+    <Class Name="XMLPrinter" RelatedTo="XMLPrinter" RelType="Aggregation" />
+  </File>
+  <File Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\Exec.cs">
+    <Class Name="Executable" RelatedTo="Executable" RelType="Aggregation" />
+  </File>
+  <File Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\Storage.cs">
+    <Class Name="Repository" RelatedTo="Repository" RelType="Aggregation" />
+  </File>
+  <File Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\Tester.cs">
+    <Class Name="Class1" RelatedTo="Class1" RelType="Using" />
+    <Class Name="Class1" RelatedTo="Class1" RelType="Aggregation" />
+  </File>
+  <File Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\TypeAnalyzer.cs">
+    <Class Name="BuildTypeAnalyzer" RelatedTo="BuildTypeAnalyzer" RelType="Aggregation" />
+    <Class Name="BuildTypeAnalyzer" RelatedTo="BuildTypeAnalyzer" RelType="Using" />
+  </File>
+</Relationships>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CodeAnalysis.PackageAnalyzer">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <Members>
+      <Property Name="masterData" Hidden="true" />
+      <Field Name="masterData_" Hidden="true" />
+      <Property Name="masterDataQueue" Hidden="true" />
+      <Field Name="masterDataQueue_" Hidden="true" />
+      <Method Name="processMasterData" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AARAAABAAAAAAAAAAACAAAAAAAAAAAEiABAACBAAAAA=</HashCode>
+      <FileName>PackageAnalyzer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeAnalysis.Parser">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CodeAnalysis.AAction" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CodeAnalysis.ARule" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CodeAnalysis.ScopeStack&lt;E&gt;" Collapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CSsemi.CSemiExp" Collapsed="true">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="CodeAnalysis.IAction" Collapsed="true">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="CodeAnalysis.IRule" Collapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

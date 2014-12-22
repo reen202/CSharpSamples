@@ -1,0 +1,17 @@
+C:\Work drive\visual studio projects\DependencyAnalyzer\IConstants\bin\Debug\IConstants.dll.config
+C:\Work drive\visual studio projects\DependencyAnalyzer\IConstants\bin\Debug\IConstants.dll
+C:\Work drive\visual studio projects\DependencyAnalyzer\IConstants\bin\Debug\IConstants.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\IConstants\obj\Debug\IConstants.dll
+C:\Work drive\visual studio projects\DependencyAnalyzer\IConstants\obj\Debug\IConstants.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\IConstants\bin\Debug\IConstants.dll.config
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\IConstants\bin\Debug\IConstants.dll
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\IConstants\bin\Debug\IConstants.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\IConstants\obj\Debug\IConstants.dll
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\IConstants\obj\Debug\IConstants.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\IConstants\bin\Debug\IConstants.dll.config
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\IConstants\bin\Debug\IConstants.dll
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\IConstants\bin\Debug\IConstants.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\IConstants\bin\Debug\IConstants.dll.CodeAnalysisLog.xml
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\IConstants\bin\Debug\IConstants.dll.lastcodeanalysissucceeded
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\IConstants\obj\Debug\IConstants.dll
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\IConstants\obj\Debug\IConstants.pdb

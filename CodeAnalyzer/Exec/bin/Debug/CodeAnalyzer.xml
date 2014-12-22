@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RelationshipAnalysis xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <fileRelationshipList>
+    <RelationshipDetails>
+      <fileName>C:\Zzz\SMAWorkspace\0912_HelpSession\TEST_FOLDER\Exec.cs</fileName>
+      <relationshipList>
+        <RelationshipInfo>
+          <className1>Exec</className1>
+          <className2>InputParam</className2>
+          <relationshipType>using</relationshipType>
+          <relationshipDetails>Exec uses InputParam</relationshipDetails>
+        </RelationshipInfo>
+      </relationshipList>
+    </RelationshipDetails>
+  </fileRelationshipList>
+</RelationshipAnalysis>

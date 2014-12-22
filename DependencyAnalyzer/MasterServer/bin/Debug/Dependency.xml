@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<PackageDependency>
+  <Package Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\AnalyzerFactory.cs">
+    <DependOn Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\AnalyzerFactory.cs" />
+  </Package>
+  <Package Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\CLInterpreter.cs" />
+  <Package Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\CodeAnalyzerFacade.cs">
+    <DependOn Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\CLInterpreter.cs" />
+    <DependOn Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\Storage.cs" />
+    <DependOn Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\Display.cs" />
+    <DependOn Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\TypeAnalyzer.cs" />
+  </Package>
+  <Package Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\Display.cs">
+    <DependOn Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\Storage.cs" />
+  </Package>
+  <Package Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\Exec.cs" />
+  <Package Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\Storage.cs" />
+  <Package Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\Tester.cs" />
+  <Package Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\TypeAnalyzer.cs">
+    <DependOn Name="C:\Work drive\visual studio projects\DependencyAnalyzer\TestProject\Storage.cs" />
+  </Package>
+</PackageDependency>

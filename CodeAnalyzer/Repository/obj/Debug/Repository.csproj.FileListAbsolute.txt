@@ -1,0 +1,6 @@
+C:\Zzz\SMAWorkspace\0912_HelpSession\Repository\bin\Debug\Repository.exe.config
+C:\Zzz\SMAWorkspace\0912_HelpSession\Repository\bin\Debug\Repository.exe
+C:\Zzz\SMAWorkspace\0912_HelpSession\Repository\bin\Debug\Repository.pdb
+C:\Zzz\SMAWorkspace\0912_HelpSession\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Zzz\SMAWorkspace\0912_HelpSession\Repository\obj\Debug\Repository.exe
+C:\Zzz\SMAWorkspace\0912_HelpSession\Repository\obj\Debug\Repository.pdb

@@ -1,0 +1,86 @@
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\Server1.exe.config
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\Server1.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\Server1.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\IServerService.dll
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\ServerService.dll
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\Storage.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\IMasterServerService.dll
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\Executive.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\IConstants.dll
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\Parser.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\FileMgr.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\XMLOutput.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\Analyzer.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\Display.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\CommandLineParse.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\IServerService.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\ServerService.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\Storage.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\IMasterServerService.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\Executive.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\IConstants.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\Parser.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\FileMgr.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\XMLOutput.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\Analyzer.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\Display.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\bin\Debug\CommandLineParse.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\obj\Debug\Server1.csprojResolveAssemblyReference.cache
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\obj\Debug\Server1.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\Server1\obj\Debug\Server1.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Server1.exe.config
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\obj\Debug\Server1.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\obj\Debug\Server1.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Server1.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Server1.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\IConstants.dll
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\IServerService.dll
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\ServerService.dll
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Storage.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\IMasterServerService.dll
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Executive.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Parser.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\FileMgr.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Analyzer.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Display.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\CommandLineParse.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\IConstants.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\IServerService.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\ServerService.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Storage.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\IMasterServerService.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Executive.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Parser.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\FileMgr.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Analyzer.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Display.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\CommandLineParse.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\obj\Debug\Server1.csprojResolveAssemblyReference.cache
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Server1.exe.config
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\obj\Debug\Server1.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\obj\Debug\Server1.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Server1.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Server1.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\IConstants.dll
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\IServerService.dll
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\ServerService.dll
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Storage.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\IMasterServerService.dll
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Executive.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Parser.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\FileMgr.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Analyzer.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Display.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\CommandLineParse.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\IConstants.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\IServerService.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\ServerService.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Storage.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\IMasterServerService.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Executive.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Parser.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\FileMgr.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Analyzer.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\Display.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\bin\Debug\CommandLineParse.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\Server1\obj\Debug\Server1.csprojResolveAssemblyReference.cache

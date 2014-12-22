@@ -1,0 +1,40 @@
+C:\Work drive\visual studio projects\DependencyAnalyzer\FinalOutput\bin\Debug\FinalOutput.exe.config
+C:\Work drive\visual studio projects\DependencyAnalyzer\FinalOutput\bin\Debug\FinalOutput.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\FinalOutput\bin\Debug\FinalOutput.pdb
+C:\Work drive\visual studio projects\DependencyAnalyzer\FinalOutput\obj\Debug\MainWindow.baml
+C:\Work drive\visual studio projects\DependencyAnalyzer\FinalOutput\obj\Debug\MainWindow.g.cs
+C:\Work drive\visual studio projects\DependencyAnalyzer\FinalOutput\obj\Debug\App.g.cs
+C:\Work drive\visual studio projects\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput_MarkupCompile.cache
+C:\Work drive\visual studio projects\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.g.resources
+C:\Work drive\visual studio projects\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.Properties.Resources.resources
+C:\Work drive\visual studio projects\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.csproj.GenerateResource.Cache
+C:\Work drive\visual studio projects\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.exe
+C:\Work drive\visual studio projects\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\bin\Debug\FinalOutput.exe.config
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\bin\Debug\FinalOutput.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\bin\Debug\FinalOutput.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.csprojResolveAssemblyReference.cache
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\MainWindow.baml
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\MainWindow.g.cs
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\App.g.cs
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput_MarkupCompile.cache
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.g.resources
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.Properties.Resources.resources
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.csproj.GenerateResource.Cache
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\bin\Debug\FinalOutput.exe.config
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\bin\Debug\FinalOutput.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\bin\Debug\FinalOutput.pdb
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\bin\Debug\FinalOutput.exe.CodeAnalysisLog.xml
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\bin\Debug\FinalOutput.exe.lastcodeanalysissucceeded
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.csprojResolveAssemblyReference.cache
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\MainWindow.baml
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\MainWindow.g.cs
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\App.g.cs
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput_MarkupCompile.cache
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.g.resources
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.Properties.Resources.resources
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.csproj.GenerateResource.Cache
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.exe
+C:\Zzz\SMAWorkspace\DependencyAnalyzer\DependencyAnalyzer24_11\DependencyAnalyzer\FinalOutput\obj\Debug\FinalOutput.pdb
